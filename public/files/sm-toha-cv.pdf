@@ -1,0 +1,62 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2651 >>
+stream
+BT /F2 22 Tf 50 775 Td (S.M. TOHA) Tj ET
+BT /F1 11 Tf 50 755 Td (CSE Student  |  Full-Stack Developer  |  AI & IoT Researcher) Tj ET
+BT /F1 10 Tf 50 738 Td (Daffodil International University, Dhaka, Bangladesh) Tj ET
+BT /F1 10 Tf 50 722 Td (GitHub: https://github.com/toha129  |  Email: ifthekhartohasm11@gmail.com) Tj ET
+50 710 m 545 710 l S
+BT /F2 12 Tf 50 688 Td (PROFESSIONAL SUMMARY) Tj ET
+BT /F1 10 Tf 50 672 Td (Computer Science and Engineering student at Daffodil International University focused on building) Tj ET
+BT /F1 10 Tf 50 658 Td (modern web applications, AI automation pipelines, and ESP32 IoT systems for real-world impact.) Tj ET
+BT /F2 12 Tf 50 630 Td (SELECTED PROJECTS) Tj ET
+BT /F2 10 Tf 50 612 Td (1. ShopixxoBD - Multi-Vendor E-Commerce Platform [Next.js, Node.js, MongoDB, Stripe]) Tj ET
+BT /F1 9.5 Tf 50 598 Td (Multi-vendor e-commerce platform for Bangladesh with integrated vendor management and delivery system.) Tj ET
+BT /F2 10 Tf 50 578 Td (2. TradingSpark - AI Trading Strategy & Backtesting [Python, FastAPI, AI, Backtesting]) Tj ET
+BT /F1 9.5 Tf 50 564 Td (AI-powered trading strategy generation and historical performance backtesting system.) Tj ET
+BT /F2 10 Tf 50 544 Td (3. Tender Package Builder - Bilingual PDF Automation [Next.js, PDF, AI, OpenAI]) Tj ET
+BT /F1 9.5 Tf 50 530 Td (AI tool to create professional tender PDF packages in Bengali and English.) Tj ET
+BT /F2 10 Tf 50 510 Td (4. IoT Energy Monitor - Smart Power Analytics [ESP32, IoT, Data Visualization, React]) Tj ET
+BT /F1 9.5 Tf 50 496 Td (Smart energy monitoring system using ESP32 microcontrollers and real-time analytics dashboards.) Tj ET
+BT /F2 12 Tf 50 468 Td (EXPERIENCE & EDUCATION) Tj ET
+BT /F2 10 Tf 50 450 Td (2023 - Present  |  CSE Student - Daffodil International University) Tj ET
+BT /F1 9.5 Tf 50 436 Td (Focused on software engineering, AI, IoT and real-world system architecture.) Tj ET
+BT /F2 10 Tf 50 416 Td (2022 - Present  |  Freelance & Independent Developer) Tj ET
+BT /F1 9.5 Tf 50 402 Td (Building web apps, automation tools and custom digital solutions for local and international clients.) Tj ET
+BT /F2 10 Tf 50 382 Td (2021 - Present  |  Research & Personal Projects) Tj ET
+BT /F1 9.5 Tf 50 368 Td (IoT systems, AI tools, Banglish compiler and workflow automation projects.) Tj ET
+BT /F2 12 Tf 50 340 Td (TECHNICAL TOOLKIT & RESEARCH INTERESTS) Tj ET
+BT /F1 9.5 Tf 50 322 Td (Skills: TypeScript, JavaScript, Python, React, Next.js, Node.js, Laravel, PHP, MongoDB, MySQL, ESP32, Git) Tj ET
+BT /F1 9.5 Tf 50 306 Td (Research: NILM for Appliance Monitoring, Smart Agricultural Systems, Computer Vision Applications) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000002954 00000 n 
+0000003024 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3099
+%%EOF
